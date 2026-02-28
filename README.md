@@ -106,19 +106,7 @@ This approach is lightweight, interpretable, and suitable for educational purpos
 
     These limitations are expected in rule-based chatbot systems.
 
-## Future Improvements
 
-    Possible enhancements include:
-
-    Adding more financial topics and patterns
-
-    Improving pattern flexibility
-
-    Integrating ML-based intent classification
-
-    Adding context awareness
-
-    Connecting to real financial APIs
 
 ## Conclusion:
 
